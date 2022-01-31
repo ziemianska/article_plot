@@ -1,4 +1,13 @@
 # article_plot
+ 
+ [Ex_model_comparison.ipynb](https://github.com/ziemianska/article_plot/blob/main/Ex_model_comparison.ipynb)
+
+1. Uploaded data are loaded, modules are imported.
+2. Dataframe is preprocessed (melted).
+3. np.arcsinh() is applied to calculate inverse hyperbolic sine, element-wise for all arr https://www.geeksforgeeks.org/numpy-arcsinh-in-python/
+4. Data types are checked.
+5. Subplots are generated for the substance conditioned tested in experiments described in https://doi.org/10.1111/ejn.15144
+
 FIGURE 7 
 from the 
 Jabłońska, J., Szumiec, Ł., Zieliński, P., & Rodriguez Parkitna, J. (2021). 
